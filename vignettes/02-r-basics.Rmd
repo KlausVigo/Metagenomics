@@ -3,10 +3,9 @@ title: "R Basics"
 
 author: "Klaus Schliep"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
-bibliography: phangorn.bib
 output: rmarkdown::html_vignette
 vignette: >
-   %\VignetteIndexEntry{02-r-basics}
+   %\VignetteIndexEntry{R Basics}
    %\VignetteEngine{knitr::rmarkdown}
    %\usepackage[utf8]{inputenc}
 ---

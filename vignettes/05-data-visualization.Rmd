@@ -5,7 +5,7 @@ author: "Klaus Schliep"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output: rmarkdown::html_vignette
 vignette: >
-   %\VignetteIndexEntry{05-data-visualization}
+   %\VignetteIndexEntry{Data Visualization with ggplot2}
    %\VignetteEngine{knitr::rmarkdown}
    %\usepackage[utf8]{inputenc}
 ---

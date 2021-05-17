@@ -5,7 +5,7 @@ author: "Klaus Schliep"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output: rmarkdown::html_vignette
 vignette: >
-   %\VignetteIndexEntry{01-Introduction}
+   %\VignetteIndexEntry{Introducing R and RStudio}
    %\VignetteEngine{knitr::rmarkdown}
    %\usepackage[utf8]{inputenc}
 ---
