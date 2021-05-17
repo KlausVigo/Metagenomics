@@ -1,0 +1,11 @@
+pandoc: 2.11.2
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  01-introduction: 01-introduction.html
+  02-r-basics: 02-r-basics.html
+  03-basics-factors-dataframes: 03-basics-factors-dataframes.html
+  04-dplyr: 04-dplyr.html
+  05-data-visualization: 05-data-visualization.html
+last_built: 2021-05-17T04:32Z
+
