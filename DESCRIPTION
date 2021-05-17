@@ -1,7 +1,7 @@
 Package: Metagenomics
 Type: Package
 Title: Metagenomcs Workshop data 
-Version: 0.1.0
+Version: 0.1.1
 Author: Who wrote it
 Maintainer: Klaus Schliep <klaus.schliep@tugraz.at>
 Description: Metagenomcs Workshop data

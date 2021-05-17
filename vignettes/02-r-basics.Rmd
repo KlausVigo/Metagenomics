@@ -155,17 +155,7 @@ created in R.
 > 4. Create an object that has the value of the number of chromosomes in a
 > diploid human cell
 >
->> ## Solution
->>
->> Here as some possible answers to the challenge:
->> ```{r, purl = FALSE}
->> human_chr_number <- 23
->> gene_name <- 'pten'
->> ensemble_url <- 'ftp://ftp.ensemblgenomes.org/pub/bacteria/release-39/fasta/bacteria_5_collection/escherichia_coli_b_str_rel606/'
->> human_diploid_chr_num <-  2 * human_chr_number
->> ```
-> {: .solution}
-{: .challenge}
+
 
 ## Naming objects in R
 
