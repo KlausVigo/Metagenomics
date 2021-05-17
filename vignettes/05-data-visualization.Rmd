@@ -1,7 +1,13 @@
 ---
 title: "Data Visualization with ggplot2"
 
-source: Rmd
+author: "Klaus Schliep"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: rmarkdown::html_vignette
+vignette: >
+   %\VignetteIndexEntry{05-data-visualization}
+   %\VignetteEngine{knitr::rmarkdown}
+   %\usepackage[utf8]{inputenc}
 ---
 
 ```{r, include=FALSE}

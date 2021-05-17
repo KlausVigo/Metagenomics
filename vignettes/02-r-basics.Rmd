@@ -1,7 +1,14 @@
 ---
 title: "R Basics"
 
-source: Rmd
+author: "Klaus Schliep"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+bibliography: phangorn.bib
+output: rmarkdown::html_vignette
+vignette: >
+   %\VignetteIndexEntry{02-r-basics}
+   %\VignetteEngine{knitr::rmarkdown}
+   %\usepackage[utf8]{inputenc}
 ---
 
 ```{r, include = FALSE}

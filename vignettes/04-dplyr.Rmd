@@ -1,23 +1,13 @@
 ---
 title: "Aggregating and Analyzing Data with dplyr"
-teaching: 40
-exercises: 15
-questions:
-- "How can I manipulate dataframes without repeating myself?"
-objectives:
-- "Describe what the `dplyr` package in R is used for."
-- "Apply common `dplyr` functions to manipulate data in R."
-- "Employ the ‘pipe’ operator to link together a sequence of functions."
-- "Employ the ‘mutate’ function to apply other chosen functions to existing columns and create new columns of data."
-- "Employ the ‘split-apply-combine’ concept to split the data into groups, apply analysis to each group, and combine the results."
 
-keypoints:
-- "Use the `dplyr` package to manipulate dataframes."
-- "Use `select()` to choose variables from a dataframe."
-- "Use `filter()` to choose data based on values."
-- "Use `group_by()` and `summarize()` to work with subsets of data."
-- "Use `mutate()` to create new variables."
-source: Rmd
+author: "Klaus Schliep"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: rmarkdown::html_vignette
+vignette: >
+   %\VignetteIndexEntry{04-dplyr}
+   %\VignetteEngine{knitr::rmarkdown}
+   %\usepackage[utf8]{inputenc}
 ---
 
 ```{r, include = FALSE}

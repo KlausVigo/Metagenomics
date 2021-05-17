@@ -1,7 +1,13 @@
 ---
 title: "R Basics continued - factors and data frames"
 
-source: Rmd
+author: "Klaus Schliep"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: rmarkdown::html_vignette
+vignette: >
+   %\VignetteIndexEntry{03-basic-factors-dataframes}
+   %\VignetteEngine{knitr::rmarkdown}
+   %\usepackage[utf8]{inputenc}
 ---
 
 ```{r, include = FALSE}
