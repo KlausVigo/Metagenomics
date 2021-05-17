@@ -8,7 +8,9 @@ Description: Metagenomcs Workshop data
 Depends:
     R (>= 4.0),
     tidyverse (>= 2.2.0), 
-    knitr
+    knitr, 
+    dplyr, 
+    ggplot2
 Imports: 
     utils
 Suggests:
