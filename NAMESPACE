@@ -1,5 +1,5 @@
 exportPattern("^[[:alpha:]]+")
 import(ggplot2)
 import(dplyr)
-import(knitr)
+import(methods)
 
