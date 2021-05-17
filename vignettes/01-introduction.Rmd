@@ -17,6 +17,8 @@ source("setup.R")
 ```
 
 
+This class is based on the [https://datacarpentry.org/genomics-r-intro](https://datacarpentry.org/genomics-r-intro). 
+Mainly just rendered differently. 
 
 ## Getting ready to use R for the first time
 

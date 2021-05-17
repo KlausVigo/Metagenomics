@@ -91,11 +91,11 @@ We will need to load the sheet using a function called `read.csv()`.
 >
 
 Now, let's read in the file `combined_tidy_vcf.csv` which will be located in
-`/home/dcuser/.solutions/R_data/`. Call this data `variants`. The
-first argument to pass to our `read.csv()` function is the file path for our
-data. The file path must be in quotes and now is a good time to remember to
-use tab autocompletion. **If you use tab autocompletion you avoid typos and
-errors in file paths.** Use it!
+`https://github.com/KlausVigo/Metagenomics/tree/master/vignettes/combined_tidy_vcf.csv`. 
+Call this data `variants`. The first argument to pass to our `read.csv()` 
+function is the file path for our data. The file path must be in quotes and now
+is a good time to remember to use tab autocompletion. **If you use tab 
+autocompletion you avoid typos and errors in file paths.** Use it!
 
 ```{r, eval = FALSE, purl = FALSE}
 ## read in a CSV file and save it as 'variants'
