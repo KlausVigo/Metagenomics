@@ -1,7 +1,6 @@
 ---
-title: "Introducing R and RStudio IDE"
-teaching: 30
-exercises: 15
+title: "Introducing R and RStudio"
+
 
 source: Rmd
 ---

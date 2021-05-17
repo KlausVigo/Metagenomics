@@ -1,16 +1,15 @@
 Package: Metagenomics
 Type: Package
-Title: Metagenomcs Workshop data 
+Title: Metagenomcs
 Version: 0.1.1
 Author: Klaus Schliep <klaus.schliep@tugraz.at>
 Maintainer: Klaus Schliep <klaus.schliep@tugraz.at>
 Description: Metagenomcs Workshop data
 Depends:
     R (>= 4.0),
-    tidyverse (>= 2.2.0), 
-    knitr, 
     dplyr, 
-    ggplot2
+    ggplot2, 
+    methods
 Imports: 
     utils
 Suggests:
